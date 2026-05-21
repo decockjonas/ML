@@ -1,5 +1,5 @@
 ### LAB SESSION 5 
-setwd("/Users/jonasdecock/Library/CloudStorage/OneDrive-KULeuven/ML_ECONOMETRICS/lab5")
+setwd("")
 data = read.csv2("data_did.csv")
 source("function to be used.R")
 library(did)
